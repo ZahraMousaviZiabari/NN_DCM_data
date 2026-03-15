@@ -1,7 +1,7 @@
+
+
+##  Peer Review Version
 Code and data for "Hybrid Neural Network Discrete Choice Models: Collective Insights and Two New Designs" – temporary version for peer review. Full dataset and final code will be released after publication.
-
-
-#  Peer Review Version
 
 This repository contains the code and data supporting the paper:
 
@@ -15,8 +15,28 @@ Submitted to: Transportation Research Part B
 - `data/` – Datasets for reproducibility
 
 ## Usage
-- Reviewers may use this code to **reproduce the results reported in the manuscript**.  
+- Reviewers may use this code to **reproduce the results reported in the manuscript**.
+1. Install dependencies
+2. Run experiment scripts (.py)
+3. Generate figures
+
+Examples:
+
+python code/swiss_metro/multipleModels-boxplot.py
+
+python code/synthetic_correlated/multiplicative/evaluation_one_run.py
+
+python code/synthetic_correlated/multiplicative/evaluation_multiple_runs.py
+
 - Redistribution or citation before official publication should be avoided.
+- 
+## Requirements
+Python 3.10
+PyTorch
+NumPy
+Pandas
+Matplotlib
+biogeme
 
 ## License
 This version is licensed for **peer review purposes only**. Full license will be applied after publication.
