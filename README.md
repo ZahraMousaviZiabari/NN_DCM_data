@@ -41,14 +41,11 @@ biogeme
 ## References
 We included the **TasteNet-MNL** implementation provided by the authors of
 
-Han, Y., Pereira, F.C., Ben-Akiva, M., Zegras, C., 2022. A neural-embedded discrete choice model: Learning
-taste representation with strengthened interpretability. Transportation Research Part B: Methodological
-163, 166–186. doi:https://doi.org/10.1016/j.trb.2022.07.001.
+Han, Y., Pereira, F.C., Ben-Akiva, M., Zegras, C., 2022. A neural-embedded discrete choice model: Learning taste representation with strengthened interpretability. Transportation Research Part B: Methodological 163, 166–186. doi:https://doi.org/10.1016/j.trb.2022.07.001.
 
 as well as the Swiss metro data described in
 
-Bierlaire, M., 2018. Swissmetro. URL: http://transp-or.epfl.ch/documents/technicalReports/CS_
-SwissmetroDescription.pdf.
+Bierlaire, M., 2018. Swissmetro. URL: http://transp-or.epfl.ch/documents/technicalReports/CS_SwissmetroDescription.pdf.
 
 ## License
 This version is licensed for **peer review purposes only**. Full license will be applied after publication.
