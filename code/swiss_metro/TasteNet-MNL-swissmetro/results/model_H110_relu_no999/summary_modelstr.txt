@@ -1,0 +1,10 @@
+ChoiceFlex(
+  (params_module): TasteParams(
+    (seq): Sequential(
+      (L1): Linear(in_features=17, out_features=110, bias=True)
+      (A1): ReLU()
+      (L2): Linear(in_features=110, out_features=8, bias=True)
+    )
+  )
+  (util_module): Utility()
+)

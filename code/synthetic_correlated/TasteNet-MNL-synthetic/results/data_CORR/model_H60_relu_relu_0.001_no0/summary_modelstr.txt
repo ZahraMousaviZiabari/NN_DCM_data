@@ -1,0 +1,12 @@
+TasteNetChoice(
+  (taste): TasteNet(
+    (seq): Sequential(
+      (L1): Linear(in_features=3, out_features=60, bias=True)
+      (A1): ReLU()
+      (L2): Linear(in_features=60, out_features=2, bias=True)
+    )
+  )
+  (util): Utility(
+    (linear): Linear(in_features=1, out_features=1, bias=False)
+  )
+)
