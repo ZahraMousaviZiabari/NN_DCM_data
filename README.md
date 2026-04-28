@@ -1,12 +1,12 @@
 
 
 ##  Peer Review Version
-Code and data for "Hybrid Neural Network Discrete Choice Models: Collective Insights and Two New Designs" – temporary version for peer review. Full dataset and final code will be released after publication.
+Code and data for "Hybrid Neural Network Discrete Choice Models with Behaviorally Constrained Utility Specifications" – temporary version for peer review. Full dataset and final code will be released after publication.
 
 This repository contains the code and data supporting the paper:
 
-**Hybrid Neural Network Discrete Choice Models: Collective Insights and Two New Designs**  
-Submitted to: Transportation Research Part B
+**Hybrid Neural Network Discrete Choice Models with Behaviorally Constrained Utility Specifications**  
+Submitted to: Transportation Research Part C
 > **Pre-publication notice:** This version is provided **only for peer review**.  
 > The full dataset and final code will be made publicly available **after the paper is officially published**.
 
